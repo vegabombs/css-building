@@ -1,7 +1,16 @@
-div {
-    width: 100%;
-    max-width:  200px;
-    border: 1px solid black;
-    font-family: "Roboto"; sans-serif;
+.red {
+    color: red;
 }
 
+.blue {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+section {
+    height: 80vh;
+    border: 1px solid black
+}
