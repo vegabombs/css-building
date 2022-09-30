@@ -1,16 +1,17 @@
-.red {
-    color: red;
-}
-
-.blue {
-    color: blue;
-}
-
-p {
-    color: black;
-}
-
 section {
     height: 80vh;
     border: 1px solid black
 }
+
+p {
+    color: rgb(195, 0, 255) !important;
+}
+
+.red {
+    color: red;
+}
+
+#title {
+    color: black;
+}
+
